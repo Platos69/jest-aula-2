@@ -1,0 +1,27 @@
+{
+  "name": "jest-aula-2",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000j\u0000e\u0000s\u0000t\u0000-\u0000a\u0000u\u0000l\u0000a\u0000-\u00002\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "npx eslint ./tests/script.js --fix && npx eslint ./tests/suite.test.js --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Platos69/jest-aula-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Platos69/jest-aula-2/issues"
+  },
+  "homepage": "https://github.com/Platos69/jest-aula-2#readme",
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.29.1",
+    "jest": "^29.7.0"
+  }
+}
